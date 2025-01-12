@@ -5,10 +5,21 @@ import LeetCodeIcon from '@mui/icons-material/School';
 import GeeksforGeeksIcon from '@mui/icons-material/Code';
 import { SiLeetcode } from "react-icons/si";
 import { SiGeeksforgeeks } from "react-icons/si";
+import { SiGmail } from "react-icons/si";
 
 export default function ContactIcon(){
     return(
         <div className='flex flex-row  gap-8 md:gap-12'>
+           <IconButton
+        href="https://mail.google.com/mail/u/0/#inbox"
+        target="_blank"
+        title="Gmail"
+        sx={{ '& svg': { fontSize: 50, color: 'red' } }}
+        className='hover:scale-125 shadow-md shadow-black'
+      >
+        <SiGmail />
+      </IconButton>
+      
         <IconButton
         href="https://github.com/priyanshujaiswalku"
         target="_blank"
@@ -48,6 +59,8 @@ export default function ContactIcon(){
       >
         <SiGeeksforgeeks />
       </IconButton>
+
+     
         </div>
     )
 }

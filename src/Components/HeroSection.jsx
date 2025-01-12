@@ -19,7 +19,7 @@ export default function HeroSection(){
           strings: [
             "Full Stack Developer>",
             "Web Developer>",
-            "Software Designing and Testing>",
+            "Software Designer>",
             "Backend Developer>",
             "Comptetive programmer>",
           ],
