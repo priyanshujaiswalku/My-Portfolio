@@ -13,7 +13,7 @@ export default function ResumeButton() {
         {showResume ? 'Hide Resume' : 'Show Resume'}
       </button>
       {showResume && (
-  <iframe src="https://drive.google.com/file/d/1yphTdnWhFZnG3zoEmyVqDDFHPvvK9HCC/preview" width="100%" height="800px"></iframe>
+  <iframe src="https://drive.google.com/file/d/1tlm_Tl6-M7POyMR02jm8qjUWG9WEad1t/view?usp=sharing" width="100%" height="800px"></iframe>
 )}
 
     </div>

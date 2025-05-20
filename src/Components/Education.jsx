@@ -8,15 +8,15 @@ const EducationTimeline = () => {
   const educationData = [
     {
       date: "2022-2027",
-      degree: "Integrated Master Of Science in Mathematics",
+      degree: "Integrated BS+MS in Mathematics",
       institution: "SVNIT SURAT",
-      description: "Currently in 3rd year , exploring fields in Mathematics and Software with CGPA-7.08.",
+      description: "Currently in 4th year , exploring fields in Mathematics and Software with CGPA-7.6.",
     },
     {
       date: "2017-2020",
       degree: "10th and 12th",
       institution: "Jeewan International Public School",
-      description: "Completed 10th with 78.8% and 12th with 73.2%.",
+      description: "Completed 10th with 79.6% and 12th with 76.2%.",
     },
   ];
 

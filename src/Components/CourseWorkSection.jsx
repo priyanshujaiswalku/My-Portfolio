@@ -15,17 +15,17 @@ const Item = ({ children }) => (
 
 const courses = [
   { name: 'Data structure And Algorithm', rating: 3 },
-  { name: 'Design And Analysis Of Algorithm', rating: 3 },
-  { name: 'Database And Management System', rating: 2 },
-  { name: 'Machine Learning', rating: 1 },
+  { name: 'Data Science', rating: 3 },
+  { name: 'Database And Management System', rating: 4 },
+  { name: 'Machine Learning', rating: 4 },
   { name: 'Web Development', rating: 3 },
-  { name: 'Computer Networks', rating: 2 },
-  { name: 'Operating Systems', rating: 3 },
+  { name: 'Computer Networks', rating: 4 },
+  { name: 'Ethical Hacking', rating: 3 },
   { name: 'Artificial Intelligence', rating: 3 },
   { name: 'Software Designing and Testing', rating: 3 },
-  { name: 'C', rating: 2 },
-  { name: 'C++', rating: 3 },
-  { name: 'Java', rating: 3 },
+  { name: 'OOPs', rating: 4},
+  { name: 'Mathematical Modeling', rating: 3 },
+  { name: 'Statistical Mathematics', rating: 3 },
 ];
 
 const getRatingStars = (rating) => {

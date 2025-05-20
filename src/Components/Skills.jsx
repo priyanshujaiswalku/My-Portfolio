@@ -34,10 +34,12 @@ export default function Skills() {
         </h2>
         <div className="skillSubHeading mt-4 w-full md:w-[85%] text-justify text-lg">
           <p>
-            Hi Everyone, My name is Priyanshu Kumar and I am currently a third year student,
-            Pursuing Integrated Master Of Science in Mathematics From Sardar Vallahbhai National Institute of Technology.I am from East Champaran, Bihar.
+            Hi Everyone, My name is Priyanshu Kumar and I am currently a 4th year student,
+            Pursuing Integrated BS+MS in Mathematics From Sardar Vallabhbhai National Institute of Technology.I am from East Champaran, Bihar.
             I am Skilled in ReactJS and have good Knowledge of Java Full Stack Programming.
             I am also Familiar with NodeJs and ExpressJs and have good knowledge of MongoDB and Graph.
+            I am SDE-Intern  @Arkalogi Tech Private Limited.
+            I am a Competitive Programmer and I have good knowledge of Data Structures and Algorithms.
             My Hobby is Coding.Here are my Skills.
           </p>
          
